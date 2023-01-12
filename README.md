@@ -24,3 +24,5 @@ Folders:
 - Linear Regression
 - Logistic Regression
 - Tree Methods
+- Clustering
+- Collaborative Filtering
