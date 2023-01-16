@@ -21,8 +21,9 @@ Folders:
 
 ## [Machine Learning](https://github.com/eren-darici/pyspark-exercises/tree/master/ML)
 > Covered basics of Spark MLLib
-> - Linear Regression
+>-  Linear Regression
 > - Logistic Regression
 > - Tree Methods
 > - Clustering
 > - Collaborative Filtering
+> - Natural Language Processing
